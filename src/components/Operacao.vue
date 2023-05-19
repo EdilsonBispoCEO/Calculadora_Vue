@@ -13,8 +13,8 @@
         </select>
     </div>
     <div>
-        <input @keyup="props.num1" required type="number" placeholder=" 1° número" >
-        <input @keyup="props.num2" required type="number" placeholder=" 2° número">
+        <input @keyup="props.num1" required type="number" placeholder=" 1° número">
+        <input @keyup="props.num2" required type="number" placeholder=" 2° número" >
     </div>
 </template>
 
